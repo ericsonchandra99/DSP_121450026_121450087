@@ -3,7 +3,7 @@
 
 # DSP_121450026_121450087 🚀
 
-![Banner](https://user-images.githubusercontent.com/yourusername/project-banner.png)
+![Banner](https://user-images.githubusercontent.com/ericsonchandra99/project-banner.png)
 
 ## 🎯 Deskripsi Singkat  
 DSP_121450026_121450087 adalah aplikasi desktop berbasis Python yang mengintegrasikan pengolahan sinyal digital (Digital Signal Processing - DSP) dengan antarmuka grafis modern menggunakan PyQt5.  
