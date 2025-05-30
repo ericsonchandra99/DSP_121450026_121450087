@@ -136,9 +136,7 @@ MIT License © 2025 Ericson Chandra
 
 ## 📬 Kontak
 
-* Email: [ericson@example.com](mailto:ericson@example.com)
-* LinkedIn: [linkedin.com/in/ericsonchandra](https://linkedin.com/in/ericsonchandra)
-* Website: [ericsonchandra.com](https://ericsonchandra.com)
+* Email: (emailto:sihombingericson@gmail.com)
 
 ---
 
@@ -146,7 +144,3 @@ MIT License © 2025 Ericson Chandra
 
 ```
 
----
-
-Kalau kamu ingin saya bantu buatkan file README.md ini dalam format file siap upload, atau ingin versi Bahasa Indonesia lebih formal, beri tahu saja ya!
-```
