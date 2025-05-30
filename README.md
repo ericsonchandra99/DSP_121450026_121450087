@@ -1,10 +1,4 @@
-# 🎯🎯project Real-time Respiration & rPPG Monitoring: 🎯🎯
-
-
-
-````markdown
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/yourprojectbanner.png" alt="Project Banner" width="700"/>
   <h1 align="center">🚀 Real-time Respiration & rPPG Monitoring with Python & PyQt5 🚀</h1>
   <p align="center"><i>Membawa era baru pemantauan kesehatan non-invasif: deteksi <b>real-time</b> pernapasan dan detak jantung melalui visi komputer, tanpa sensor fisik.</i></p>
   <p align="center">
@@ -140,7 +134,7 @@ File executable hasilnya ada di folder `dist/`.
 | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | ![Main View](https://user-images.githubusercontent.com/yourusername/main_view_screenshot.png) | ![Real-time Graph](https://user-images.githubusercontent.com/yourusername/realtime_graph_screenshot.png) |
 
-*(Ganti URL gambar dengan screenshot asli kamu)*
+
 
 ---
 
