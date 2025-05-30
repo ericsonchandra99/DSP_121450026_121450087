@@ -40,8 +40,9 @@ Dirancang khusus untuk memantau sinyal pernapasan dan detak jantung secara real-
 ### 1. Clone repository ini
 
 ```bash
-git clone https://github.com/ericsonchandra99/DSP_121450026_121450087.git
-cd DSP_121450026_121450087
+git clone https://github.com/ericsonchandra99/Real-time-Respiration-and-rPPG-Monitoring-with-Python-PyQt5.git
+cd Real-time-Respiration-and-rPPG-Monitoring-with-Python-PyQt5
+
 ```
 
 ### 2. (Opsional) Buat virtual environment agar instalasi bersih
