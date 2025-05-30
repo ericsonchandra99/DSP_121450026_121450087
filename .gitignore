@@ -1,9 +1,0 @@
-__pycache__/ 
-*.pyc 
-build/ 
-dist/ 
-*.spec 
-env/ 
-venv/ 
-.vscode/ 
-*.log 
