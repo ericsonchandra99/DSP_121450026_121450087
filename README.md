@@ -130,7 +130,9 @@ git push origin fitur-baru
 
 ## 📜 Lisensi
 
-MIT License © 2025 Ericson Chandra
+MIT License © 2025 ericsonchandra99
+MIT License © 2025 shulatalihta
+
 
 ---
 
