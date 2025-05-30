@@ -1,32 +1,37 @@
-
-
-
-# DSP_121450026_121450087 🚀
-
-
-
-## 🎯 Deskripsi Singkat  
-DSP_121450026_121450087 adalah aplikasi desktop berbasis Python yang mengintegrasikan pengolahan sinyal digital (Digital Signal Processing - DSP) dengan antarmuka grafis modern menggunakan PyQt5.  
-Dirancang untuk memberikan pengalaman interaktif, responsif, dan efisien dalam menganalisis serta memanipulasi sinyal secara real-time.
+Berikut adalah versi README.md kamu yang sudah saya perbarui dan poles agar lebih profesional, informatif, dan mudah dipahami, sekaligus menyesuaikan dengan project Real-time Respiration & rPPG Monitoring:
 
 ---
 
-## ✨ Fitur Utama  
-- **GUI Elegan & User-Friendly:** Menggunakan PyQt5 dengan style Fusion yang sleek dan modern.  
-- **Pengolahan Sinyal Real-Time:** Implementasi algoritma DSP mutakhir untuk analisis dan visualisasi sinyal.  
-- **Modular & Scalable:** Struktur kode yang bersih dan modular memudahkan pengembangan dan pemeliharaan.  
-- **Cross-Platform:** Bisa dijalankan di Windows, Linux, dan macOS (dengan konfigurasi minimal).  
-- **Mudah di-Deploy:** Sudah diuji menggunakan PyInstaller untuk menjadi executable standalone.
+# DSP\_121450026\_121450087 🚀
+
+## 🎯 Deskripsi Singkat
+
+DSP\_121450026\_121450087 adalah aplikasi desktop berbasis Python yang mengintegrasikan pengolahan sinyal digital (Digital Signal Processing - DSP) dengan antarmuka grafis modern menggunakan PyQt5.
+Dirancang khusus untuk memantau sinyal pernapasan dan detak jantung secara real-time melalui webcam dengan teknologi rPPG dan analisis posisi tubuh.
 
 ---
 
-## 🛠️ Teknologi & Tools  
-- Python 3.12  
-- PyQt5 (Graphical User Interface)  
-- Numpy, Scipy (Numerical dan Scientific Computing)  
-- Matplotlib (Visualisasi Data)  
-- Pygame (Audio dan Multimedia)  
-- PyInstaller (Packaging aplikasi)
+## ✨ Fitur Utama
+
+* **Antarmuka GUI Elegan & User-Friendly:** Menggunakan PyQt5 dengan style Fusion yang sleek dan modern, cocok untuk pengguna awam maupun profesional.
+* **Pemrosesan Sinyal Real-Time:** Memanfaatkan algoritma DSP untuk ekstraksi dan visualisasi sinyal pernapasan dan detak jantung secara simultan.
+* **Teknologi MediaPipe:** Deteksi wajah dan pose tubuh untuk meningkatkan akurasi pengukuran.
+* **Modular & Mudah Dikembangkan:** Kode terstruktur rapi memudahkan pemeliharaan dan pengembangan fitur baru.
+* **Cross-Platform:** Mendukung Windows, Linux, dan macOS dengan sedikit konfigurasi.
+* **Deploy Mudah:** Sudah teruji menggunakan PyInstaller untuk menghasilkan executable standalone.
+* **Feedback Interaktif:** Informasi kualitas sinyal dan status pengukuran disajikan dengan bahasa yang mudah dimengerti dan sedikit humor agar lebih menyenangkan.
+* **Fitur Restart Pengukuran:** Bisa mengulang pengukuran setelah durasi tertentu dengan mudah.
+
+---
+
+## 🛠️ Teknologi & Tools
+
+* Python 3.12
+* PyQt5 (Graphical User Interface)
+* Numpy, Scipy (Numerical dan Scientific Computing)
+* Matplotlib (Visualisasi Data)
+* MediaPipe (Deteksi Wajah & Pose)
+* PyInstaller (Packaging aplikasi)
 
 ---
 
@@ -37,7 +42,7 @@ Dirancang untuk memberikan pengalaman interaktif, responsif, dan efisien dalam m
 ```bash
 git clone https://github.com/ericsonchandra99/DSP_121450026_121450087.git
 cd DSP_121450026_121450087
-````
+```
 
 ### 2. (Opsional) Buat virtual environment agar instalasi bersih
 
@@ -93,7 +98,7 @@ DSP_121450026_121450087/
 ├── main.py                 # Entry point aplikasi
 ├── src/                    # Folder source code utama
 │   ├── main_window.py      # UI utama aplikasi
-│   └── video_processor.py  # Modul pengolahan video/sinyal
+│   └── video_processor.py  # Modul pengolahan video dan sinyal
 ├── .gitignore              # File pengaturan git ignore
 ├── requirements.txt        # Daftar dependency Python
 └── README.md               # Dokumentasi proyek
@@ -112,7 +117,7 @@ Kami sangat menghargai kontribusimu! Untuk berkontribusi:
 git checkout -b fitur-baru
 ```
 
-3. Commit perubahan:
+3. Commit perubahanmu:
 
 ```bash
 git commit -m "Tambah fitur baru"
@@ -130,23 +135,19 @@ git push origin fitur-baru
 
 ## 📜 Lisensi
 
----
 MIT License © 2025 ericsonchandra99
----
----
 MIT License © 2025 shulatalihta
----
-
 
 ---
 
 ## 📬 Kontak
 
-* Email: (emailto:sihombingericson@gmail.com)
+Email: [sihombingericson@gmail.com](mailto:sihombingericson@gmail.com)
 
 ---
 
 ✨ Terima kasih telah mengunjungi proyek ini! Selamat mencoba dan semoga bermanfaat! ✨
 
-```
+---
+
 
