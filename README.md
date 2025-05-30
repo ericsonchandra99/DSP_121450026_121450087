@@ -41,6 +41,8 @@ Dirancang khusus untuk memantau sinyal pernapasan dan detak jantung secara real-
 
 ```bash
 git clone https://github.com/ericsonchandra99/Real-time-Respiration-and-rPPG-Monitoring-with-Python-PyQt5.git
+```
+```
 cd Real-time-Respiration-and-rPPG-Monitoring-with-Python-PyQt5
 
 ```
