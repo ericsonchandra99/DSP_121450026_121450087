@@ -1,4 +1,4 @@
-Berikut adalah README lengkap dalam satu file markdown yang sudah rapi dan siap kamu pakai di GitHub:
+
 
 ````markdown
 # DSP_121450026_121450087 🚀
