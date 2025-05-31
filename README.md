@@ -117,7 +117,7 @@ deactivate
 
 | Tampilan Utama Aplikasi                                                                       | Grafik Sinyal Real-time                                                                                  |
 | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| ![Main View](https://github.com/ericsonchandra99/Real-time-Respiration-and-rPPG-Monitoring-with-Python-PyQt5/blob/main/WhatsApp%20Image%202025-05-31%20at%2007.34.40.jpeg) | ![Real-time Graph](https://github.com/ericsonchandra99/Real-time-Respiration-and-rPPG-Monitoring-with-Python-PyQt5/blob/main/Screenshot%20(735).png) |
+| ![Main View](https://github.com/ericsonchandra99/Real-time-Respiration-and-rPPG-Monitoring-with-Python-PyQt5/blob/main/WhatsApp%20Image%202025-05-31%20at%2007.34.40.jpeg) | ![Real-time Graph](https://github.com/ericsonchandra99/Real-time-Respiration-and-rPPG-Monitoring-with-Python-PyQt5/blob/main/Untitled%20design%20(4).png) |
 
 
 
