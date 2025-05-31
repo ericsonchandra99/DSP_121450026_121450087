@@ -137,6 +137,5 @@ Terima kasih telah mencoba aplikasi ini! Mari bersama inovasi untuk masa depan k
 </p>
 ```
 
----
 
 
