@@ -16,7 +16,7 @@
 
 
 ---
-TIM : Ericson Chandra Sihombing-121450026
+TIM : Ericson Chandra Sihombing-121450026, Shula Talitha Ardhya Putri (121450087)
 ---
 
 ## ✨ Mengapa Proyek Ini Penting?
