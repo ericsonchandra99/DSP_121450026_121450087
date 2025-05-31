@@ -123,6 +123,14 @@ deactivate
 
 ---
 
+---
+# Dokumentasi Vital Sign Monitor
+
+Silakan unduh dokumen lengkap aplikasi pada tautan berikut:
+
+[Download Vital Sign Monitor PDF](./vital%20sign%20monitor.pdf)
+--- 
+
 ## 🤝 Kontribusi
 
 Kontribusi sangat kami hargai!
