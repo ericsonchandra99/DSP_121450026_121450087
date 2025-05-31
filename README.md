@@ -1,17 +1,7 @@
 <p align="center">
-  <h1 align="center">🚀 Real-time Respiration & rPPG Monitoring with Python & PyQt5 🚀</h1>
+  <h1 align="center">🚀 Real-time Respiration & rPPG Monitoring with Python&PyQt5 🚀</h1>
   <p align="center"><i>Membawa era baru pemantauan kesehatan non-invasif: deteksi <b>real-time</b> pernapasan dan detak jantung melalui visi komputer, tanpa sensor fisik.</i></p>
-  <p align="center">
-    <a href="https://github.com/ericsonchandra99/Real-time-Respiration-and-rPPG-Monitoring-with-Python-PyQt5/blob/main/LICENSE">
-      <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
-    </a>
-    <a href="https://github.com/ericsonchandra99/Real-time-Respiration-and-rPPG-Monitoring-with-Python-PyQt5/stargazers">
-      <img src="https://img.shields.io/github/stars/ericsonchandra99/Real-time-Respiration-and-rPPG-Monitoring-with-Python-PyQt5?style=social" alt="GitHub stars">
-    </a>
-    <a href="https://github.com/ericsonchandra99/Real-time-Respiration-and-rPPG-Monitoring-with-Python-PyQt5/fork">
-      <img src="https://img.shields.io/github/forks/ericsonchandra99/Real-time-Respiration-and-rPPG-Monitoring-with-Python-PyQt5?style=social" alt="GitHub forks">
-    </a>
-  </p>
+  
 </p>
 
 
