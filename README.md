@@ -14,6 +14,9 @@
   </p>
 </p>
 
+
+---
+TIM : Ericson Chandra Sihombing-121450026
 ---
 
 ## ✨ Mengapa Proyek Ini Penting?
@@ -44,6 +47,8 @@ git --version
 
 Kalau belum, download dan instal dari [https://git-scm.com/downloads](https://git-scm.com/downloads).
 
+## Bagian Menjalankan Kode dari Github
+
 ### 2. Clone repo ini ke lokal
 
 ```bash
@@ -55,7 +60,7 @@ cd Real-time-Respiration-and-rPPG-Monitoring-with-Python-PyQt5
 
 ---
 
-## 🐍 Cara Membuat Environment Python (Virtual Environment)
+## 🐍 Cara Membuat Environment Python (Virtual Environment) 
 
 ### 1. Buat environment baru
 
@@ -103,28 +108,6 @@ deactivate
 
 ---
 
-## 🚀 Menjalankan Aplikasi
-
-### Dari Source Code
-
-```bash
-python main.py
-```
-
-### Dari Executable (Windows)
-
-* Buka folder `dist`
-* Jalankan `main.exe` langsung tanpa perlu Python
-
----
-
-## ⚙️ Cara Buat Executable Sendiri
-
-```bash
-pyinstaller --onefile --windowed main.py
-```
-
-File executable hasilnya ada di folder `dist/`.
 
 ---
 
@@ -147,13 +130,6 @@ Kontribusi sangat kami hargai!
 * Fork repo dan buat versimu sendiri!
 
 ---
-
-## 📜 Lisensi
-
-Proyek ini dilisensikan di bawah MIT License. Lihat [LICENSE](./LICENSE).
-
----
-
 ## 🙏 Terima Kasih!
 
 Terima kasih telah mencoba aplikasi ini! Mari bersama inovasi untuk masa depan kesehatan yang lebih baik dengan teknologi.
